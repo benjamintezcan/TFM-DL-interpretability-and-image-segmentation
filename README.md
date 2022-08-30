@@ -1,5 +1,5 @@
 # TFM-DL-interpretability-and-image-segmentation
-Github repository containing the necessary code for the elaboration of the Master's Thesis at UPC.
+Github repository containing the necessary code for the elaboration of the Master's Thesis at UPC. The goal was to analyse different databases of different semantic background, trying out different CNN architectures and applying different deep learning interpretability methods to check the performances. Additionally, some of the images were segmented in order to check if there are any links to the corresponding deep learning interpretability heatmap.
 
 This project is dealing with 4 different datasets:
   - MNIST
